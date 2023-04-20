@@ -7,7 +7,7 @@ package prácticaunidad3;
 
 /**
  *
- * @author ED05
+ * @author Manuel Garcia Garcia
  */
 public class Main {
 
